@@ -1,7 +1,8 @@
 {
+    "name": "tnt2306/cualuoichongmuoi",
+    "description": "Cua luoi chong muoi gia re tai Ho Chi Minh, chuyen lap dat cua luoi ngan muoi nhap khau tai ho chi minh",
     "require": {
-       "zendframework/zend-validator": "^2.10",
-        "zendframework/zend-filter": "^2.7",
-        "zendframework/zend-uri": "^2.5"    
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
     }
 }
